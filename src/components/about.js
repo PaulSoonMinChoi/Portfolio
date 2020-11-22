@@ -30,22 +30,20 @@ const About = () => {
       rightColumn={
         <Fragment>
           <Big>
-            Hi. I'm Gabriel, a UI and UX designer living in&nbsp;Berlin. I bring
+            Hi. I'm Paul, a full stack software engineer living in&nbsp;California. I bring
             ideas to life with design and&nbsp;code.
           </Big>
           <p>
-            In my work I strive to optimize the aesthetic value and usability of
-            products without losing sight of the technical challenges and
-            limitations.
+             In my work I strive to bring unique and creative ideas while maintaining usability and structure.
           </p>
           <p>
-            Currently I'm designing the future of medical infrastructure at{' '}
-            <Link to="/lifetime">LifeTime</Link> and hosting electronic music
-            festivals with <Link to="/kellerkind">Kellerkind</Link>.
+            Currently I'm looking for a full time software engineering based role. In addition I am working on
+            a side project called <Link to="/lifetime">Blu</Link> which allows gamers to connect with other
+            gamers for better online multiplayer experiences.
           </p>
           <p style={{ marginBottom: 0 }}>
-            Outside of work I'm passionate about my family, climbing and riding
-            all kinds of boards on roads, water and snow.
+            Outside of code I'm passionate about my friends, family, and my surrounding culture.
+            Oh and I LOVE playing games on my spare time.
           </p>
         </Fragment>
       }
